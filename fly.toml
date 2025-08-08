@@ -2,8 +2,8 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "CHANGE_ME"
-primary_region = "fra"
+app = "1302world"
+primary_region = "hkg"
 swap_size_mb = 128
 
 [build]
